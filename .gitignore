@@ -1,0 +1,8 @@
+# Ignore virtual environments
+project01/venv/
+
+# Ignore other common files and directories
+*.pyc
+__pycache__/
+.DS_Store
+.env
