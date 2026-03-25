@@ -2,6 +2,7 @@
 project01/venv/
 venv/
 
+
 # Ignore other common files and directories
 *.pyc
 __pycache__/
@@ -9,3 +10,6 @@ __pycache__/
 .env
 config.ini
 *.conf
+acc_keys
+*.json
+.env
